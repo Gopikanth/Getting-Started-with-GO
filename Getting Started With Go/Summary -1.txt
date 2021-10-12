@@ -1,0 +1,8 @@
+1) How to install GO
+2)Integrated Environment in GO in Visual Studio
+3)Created First Hello World program
+4)Function Calling
+5)Declaring Variables in 2 Different Ways
+6)Custom Package(eliza program)
+7)Simple For loop ,if statement , Break using eliza program
+8)Some other small functionalities in eliza. 
